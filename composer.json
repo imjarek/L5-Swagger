@@ -1,5 +1,5 @@
 {
-  "name": "darkaonline/l5-swagger",
+  "name": "imjarek/laravel-swagger",
   "description": "OpenApi or Swagger integration to Laravel",
   "keywords": [
     "laravel",
